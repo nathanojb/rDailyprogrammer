@@ -1,4 +1,4 @@
-package Challenege_212_Easy;
+package Challenge_212_Easy;
 
 /**
  * Created by Jonathan on 25/08/2015.
