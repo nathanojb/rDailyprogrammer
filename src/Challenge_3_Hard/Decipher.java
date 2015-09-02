@@ -44,7 +44,7 @@ public class Decipher {
      */
     public void deScramble() {
 
-        //shouldn't hard code the values but unlikely I'll re user this code elsewhere
+        //shouldn't hard code the values but unlikely I'll reuse this code elsewhere
         ArrayList<String> toDecipher = new ArrayList<String>(10);
         ArrayList<String> words = new ArrayList<String>(1273);
 
